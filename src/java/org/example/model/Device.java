@@ -7,7 +7,7 @@ public class Device {
     private String status;
     private String type;
     private String description;
-    private String g;
+    private String ggg;
 
     public Device() {
     }
